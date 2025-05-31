@@ -1,0 +1,11 @@
+12072-Matemáticas Aplicadas al diseño-Curos sobre matemáticas para el diseño-3
+12109-Lenguale II- Curso para parender sobre oralidad-2
+11580- Inglés IV- Curso para aprender inglés-0
+11873-Exploración III Redes Sociales- Curso exploratorio-1
+10906-Habilidades básicas en hojas electrónicas- Curso sobr excel-0
+10012-Organizaciones-Curso sobre funadamentos de organizaciones-2
+11850-Exploracion II ¿Qué se juega cuando jugamos?-Curso exploratorio-1
+10991- Algoritmos y programación-Curso sobre java-3
+11894-Exploración IV El agua en la U- Curso exploratorio-1
+12227-Fundamentos en diseño II- Curso sobre diseño-4
+12364-Pensamiento computacional- Curso sobre python-2 
